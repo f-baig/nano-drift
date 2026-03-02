@@ -1,2 +1,2 @@
 # nano-drift
-a lightweight implementation of drifting models
+a lightweight implementation of drifting models written in pytorch
